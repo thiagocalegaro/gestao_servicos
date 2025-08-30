@@ -1,6 +1,4 @@
-# 🖥️ POO_WEB
-
-Aplicação desenvolvida na disciplina de **Programação Orientada a Objetos (POO)**, com foco em desenvolvimento web.  
+Aplicação desenvolvida na disciplina de **Programação Orientada a Objetos para Web I**, com foco em desenvolvimento web.  
 O objetivo do projeto é aplicar conceitos de orientação a objetos em um sistema real, integrando **frontend, backend e banco de dados**.
 
 ---
@@ -41,3 +39,4 @@ cd poo_web
 
 # Compile e rode o projeto (se for Spring Boot)
 mvn spring-boot:run
+
