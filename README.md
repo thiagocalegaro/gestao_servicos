@@ -35,8 +35,9 @@ O objetivo do projeto é aplicar conceitos de orientação a objetos em um siste
 git clone https://github.com/thiagocalegaro/poo_web.git
 
 # Acesse a pasta do projeto
-cd poo_web
+cd gestao_servicos
 
 # Compile e rode o projeto (se for Spring Boot)
 mvn spring-boot:run
+
 
