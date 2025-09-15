@@ -32,12 +32,13 @@ O objetivo do projeto é aplicar conceitos de orientação a objetos em um siste
 ### Passo a passo
 ```bash
 # Clone o repositório
-git clone https://github.com/thiagocalegaro/poo_web.git
+git clone https://github.com/thiagocalegaro/gestao_servicos.git
 
 # Acesse a pasta do projeto
 cd gestao_servicos
 
 # Compile e rode o projeto (se for Spring Boot)
 mvn spring-boot:run
+
 
 
